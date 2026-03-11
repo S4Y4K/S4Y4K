@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Sayak 👋
 
-<!--
-**S4Y4K/S4Y4K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BTech Computer Science Student from India.
 
-Here are some ideas to get you started:
+Currently learning **Machine Learning and Data Science**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+- Machine Learning
+- Data Analysis
+- Python for AI
+
+## Tools I Use
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-Learn
+
+## Projects
+- Iris Dataset Analysis
+- IPL Data Analysis (Coming Soon)
+- Fake News Detection (Coming Soon)
+
+## Goal
+Become a Machine Learning Engineer and build real AI systems.
