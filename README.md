@@ -30,9 +30,10 @@ Currently learning **Machine Learning and Data Science**.
 - Scikit-Learn
 
 ## Projects:
-• Stock Market Sentiment Analysis (Completed)
-• IPL Data Analysis (In Progress)
-• Fake News Detection (Planned)
+- Stock Market Sentiment Analysis (Completed)
+- IPL Data Analysis (In Progress)
+- Fake News Detection (Planned)
+
 ## GitHub Stats
 
 ![Sayak's GitHub stats](https://github-readme-stats.vercel.app/api?username=S4Y4K&show_icons=true&theme=tokyonight)
