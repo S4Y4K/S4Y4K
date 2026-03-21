@@ -29,11 +29,10 @@ Currently learning **Machine Learning and Data Science**.
 - Seaborn
 - Scikit-Learn
 
-## Projects
-- Iris Dataset Analysis
-- IPL Data Analysis (Coming Soon)
-- Fake News Detection (Coming Soon)
-
+## Projects:
+• Stock Market Sentiment Analysis (Completed)
+• IPL Data Analysis (In Progress)
+• Fake News Detection (Planned)
 ## GitHub Stats
 
 ![Sayak's GitHub stats](https://github-readme-stats.vercel.app/api?username=S4Y4K&show_icons=true&theme=tokyonight)
